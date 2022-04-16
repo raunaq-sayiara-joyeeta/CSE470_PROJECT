@@ -1,1 +1,1 @@
-# CSE470_PROJECT
+# Online Educational Platform
